@@ -1,3 +1,6 @@
+# PyCharm files
+.idea/
+
 # PyInstaller build artifacts
 dist/
 build/
